@@ -2,5 +2,4 @@
 
 This is very awesome
 
-Now updating readme file
-Updated locally
+Updates made on master Github
